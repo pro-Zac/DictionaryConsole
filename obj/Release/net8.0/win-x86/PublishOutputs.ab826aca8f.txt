@@ -1,0 +1,2 @@
+C:\Users\zwbest\source\repos\DictionaryConsole\bin\Release\net8.0\publish\win-x86\DictionaryConsole.pdb
+C:\Users\zwbest\source\repos\DictionaryConsole\bin\Release\net8.0\publish\win-x86\DictionaryConsole.exe

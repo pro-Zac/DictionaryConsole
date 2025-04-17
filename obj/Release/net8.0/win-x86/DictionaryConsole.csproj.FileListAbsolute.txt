@@ -1,0 +1,14 @@
+C:\Users\zwbest\source\repos\DictionaryConsole\bin\Release\net8.0\win-x86\DictionaryConsole.exe
+C:\Users\zwbest\source\repos\DictionaryConsole\bin\Release\net8.0\win-x86\DictionaryConsole.deps.json
+C:\Users\zwbest\source\repos\DictionaryConsole\bin\Release\net8.0\win-x86\DictionaryConsole.runtimeconfig.json
+C:\Users\zwbest\source\repos\DictionaryConsole\bin\Release\net8.0\win-x86\DictionaryConsole.dll
+C:\Users\zwbest\source\repos\DictionaryConsole\bin\Release\net8.0\win-x86\DictionaryConsole.pdb
+C:\Users\zwbest\source\repos\DictionaryConsole\obj\Release\net8.0\win-x86\DictionaryConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwbest\source\repos\DictionaryConsole\obj\Release\net8.0\win-x86\DictionaryConsole.AssemblyInfoInputs.cache
+C:\Users\zwbest\source\repos\DictionaryConsole\obj\Release\net8.0\win-x86\DictionaryConsole.AssemblyInfo.cs
+C:\Users\zwbest\source\repos\DictionaryConsole\obj\Release\net8.0\win-x86\DictionaryConsole.csproj.CoreCompileInputs.cache
+C:\Users\zwbest\source\repos\DictionaryConsole\obj\Release\net8.0\win-x86\DictionaryConsole.dll
+C:\Users\zwbest\source\repos\DictionaryConsole\obj\Release\net8.0\win-x86\refint\DictionaryConsole.dll
+C:\Users\zwbest\source\repos\DictionaryConsole\obj\Release\net8.0\win-x86\DictionaryConsole.pdb
+C:\Users\zwbest\source\repos\DictionaryConsole\obj\Release\net8.0\win-x86\DictionaryConsole.genruntimeconfig.cache
+C:\Users\zwbest\source\repos\DictionaryConsole\obj\Release\net8.0\win-x86\ref\DictionaryConsole.dll
